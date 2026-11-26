@@ -291,6 +291,4 @@ binary_sensor:
     on_click:
       then:
         - voice_assistant.stop:
-#        - media_player.stop:
-#            id: voice_media_player
         - output.turn_off: status_led          
