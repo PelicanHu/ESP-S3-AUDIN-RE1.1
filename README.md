@@ -1,4 +1,4 @@
-# ESP32-S3-AUDIN Home Assistant Voice Assistant
+# ESP S3-AUDIN Home Assistant Voice Assistant
 
 A custom ESPHome-based voice assistant built around the ESP32-S3-AUDIN development board, integrated with Home Assistant Assist.
 
@@ -106,7 +106,7 @@ ALC can be controlled through a Home Assistant switch entity.
 
 ### Wake Word Detection
 
-Wake-word detection runs locally on the ESP32 using ESPHome `micro_wake_word`.
+Wake-word detection runs locally on the ESP32-S3 using ESPHome `micro_wake_word`.
 
 Current model:
 
